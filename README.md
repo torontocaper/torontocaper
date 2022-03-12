@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Adam (aka @torontocaper)
-- 👀 I’m interested in game development, sound design and automating the news
-- 🌱 I’m currently learning Python, JS and GDScript
-- 💞️ I’m looking to collaborate on anything that doesn't require much experience
-- 📫 You can reach me at torontocaper (at) gmail (dot) com
+### Hi, I’m Adam! (aka @torontocaper)
+
+#### I'm a journalist ✍🏻 broadcaster 🎙️ and aspiring developer 🧑🏻‍💻 interested in game design and low/no-code app building.
+
+#### You can reach me at torontocaper (at) gmail (dot) com or find me on the [bird app](https://twitter.com/torontocaper)
 
 <!---
 torontocaper/torontocaper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
