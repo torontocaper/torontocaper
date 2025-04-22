@@ -1,6 +1,6 @@
 ### Hi, I’m Adam! (aka @torontocaper)
 
-#### I'm a journalist 📰 broadcaster 🎙️ and aspiring developer 🧑🏻‍💻 interested in game design and low/no-code app building.
+#### I'm a writer, editor and professional communicator with a passion for game design and app development.
 
 #### You can reach me at torontocaper (at) gmail (dot) com.
 
